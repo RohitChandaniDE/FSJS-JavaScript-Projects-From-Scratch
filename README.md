@@ -20,87 +20,118 @@
 
 ***
 
-<!-- ## 2. JavaScript Project02: Basic Counter
+## 2. JavaScript Project02: Word Counter App
 
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT-REPOSITORY-brightgreen) 
-### [HERE](https://github.com/RohitChandaniDE/FSJS-Color-Changer-JavaScript-Project)
+### [HERE](https://github.com/RohitChandaniDE/FSJS-Word-Counter-App-JavaScript-Project)
 
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT%20LINK-BELOW-lightgrey) 
-### [HERE](https://fsjs-color-changer-javascript-project.netlify.app/)
+### [HERE](https://fsjs-word-counter-app-js-project.netlify.app/)
 
 ***
 
-## 3. JavaScript Project03: Click The Button
+## 3. JavaScript Project03: Palindrome Checker Game
 
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT-REPOSITORY-yellowgreen) 
-### [HERE](https://github.com/RohitChandaniDE/FSJS-Color-Changer-JavaScript-Project)
+### [HERE](https://github.com/RohitChandaniDE/FSJS-Palindrome-Checker-Game-JavaScript-Project)
 
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT%20LINK-BELOW-lightgrey) 
-### [HERE](https://fsjs-color-changer-javascript-project.netlify.app/)
+### [HERE](https://fsjs-palindrome-checker-game-js.netlify.app/)
 
 ***
 
-## 4. JavaScript Project04: See What You Type
+## 4. JavaScript Project04: Bookmark App
 
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT-REPOSITORY-yellow) 
-### [HERE](https://github.com/RohitChandaniDE/FSJS-Color-Changer-JavaScript-Project)
+### [HERE](https://github.com/RohitChandaniDE/FSJS-Bookmark-App-JavaScript-Project)
 
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT%20LINK-BELOW-lightgrey) 
-### [HERE](https://fsjs-color-changer-javascript-project.netlify.app/)
+### [HERE](https://fsjs-bookmark-app-js-project.netlify.app/)
 
 ***
 
-## 5. JavaScript Project05: Name Conversion
+## 5. JavaScript Project05: Filter App
 
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT-REPOSITORY-orange) 
-### [HERE](https://github.com/RohitChandaniDE/FSJS-Color-Changer-JavaScript-Project)
+### [HERE](https://github.com/RohitChandaniDE/FSJS-Filter-App-JavaScript-Project)
 
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT%20LINK-BELOW-lightgrey) 
-### [HERE](https://fsjs-color-changer-javascript-project.netlify.app/)
+### [HERE](https://fsjs-filter-app-js-project.netlify.app/)
 
 ***
 
-## 6. JavaScript Project06: Accordion
+## 6. JavaScript Project06: My Budget App
 
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT-REPOSITORY-red) 
-### [HERE](https://github.com/RohitChandaniDE/FSJS-Color-Changer-JavaScript-Project)
+### [HERE](https://github.com/RohitChandaniDE/FSJS-My-Budget-App-JavaScript-Project)
 
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT%20LINK-BELOW-lightgrey) 
-### [HERE](https://fsjs-color-changer-javascript-project.netlify.app/)
+### [HERE](https://fsjs-my-budget-app-js-project.netlify.app/)
 
 ***
 
-## 7. JavaScript Project07: Age Calculator
+## 7. JavaScript Project07: Typing Game
 
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT-REPOSITORY-blue) 
-### [HERE](https://github.com/RohitChandaniDE/FSJS-Color-Changer-JavaScript-Project)
+### [HERE](https://github.com/RohitChandaniDE/FSJS-Typing-Game-JavaScript-Project)
 
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT%20LINK-BELOW-lightgrey) 
-### [HERE](https://fsjs-color-changer-javascript-project.netlify.app/)
+### [HERE](https://fsjs-typing-game-js-project.netlify.app/)
 
-*** -->
+***
+## 8. JavaScript Project08: Loan Calculator
+
+***
+
+![Badge](https://img.shields.io/badge/PROJECT-REPOSITORY-green) 
+### [HERE](https://github.com/RohitChandaniDE/FSJS-Loan-Calculator-JavaScript-Project)
+
+***
+
+![Badge](https://img.shields.io/badge/PROJECT%20LINK-BELOW-lightgrey) 
+### [HERE](https://fsjs-loan-calculator-js-project.netlify.app/)
+
+***
+
+## 9. JavaScript Project09: Random Quote Generator
+
+***
+
+![Badge](https://img.shields.io/badge/PROJECT-REPOSITORY-lightgreen) 
+### [HERE](https://github.com/RohitChandaniDE/FSJS-Random-Quote-Generator-JavaScript-Project)
+
+***
+
+![Badge](https://img.shields.io/badge/PROJECT%20LINK-BELOW-lightgrey) 
+### [HERE](https://random-quote-generator-js-project.netlify.app/)
+
+
+
+
+
+
 
